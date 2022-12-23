@@ -12,7 +12,8 @@ by editing the memory and changing the time value to 0
 > Run The Executable File And It Will Be Bypassed Everytime The DonationWare pops up
 
 ## How Can i make it EXE file ?
-> it's easier than you think download pyinstaller `pip install pyinstaller`
+it's easier than you think 
+> download pyinstaller `pip install pyinstaller`
 > and write this command `pyinstaller  --onefile --noconsole BMeeter.py`
 > MAKE SURE THAT PYMEM IS INSTALLED `pip install pymem`
 
