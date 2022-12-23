@@ -16,9 +16,9 @@ it's easier than you think
 
 > download pyinstaller `pip install pyinstaller`
 
-> and write this command `pyinstaller  --onefile --noconsole BMeeter.py`
+> and write this command `pyinstaller --onefile --noconsole BMeeter.py`
 
-> MAKE SURE THAT PYMEM IS INSTALLED `pip install pymem`
+> MAKE SURE PYMEM IS INSTALLED `pip install pymem`
 
 ## Auto Bypass
 > You Can Auto Bypass The DonationWare By Putting `BMeeter.exe` In The StartUp
