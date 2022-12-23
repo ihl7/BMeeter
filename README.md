@@ -13,8 +13,11 @@ by editing the memory and changing the time value to 0
 
 ## How Can i make it EXE file ?
 it's easier than you think 
+
 > download pyinstaller `pip install pyinstaller`
+
 > and write this command `pyinstaller  --onefile --noconsole BMeeter.py`
+
 > MAKE SURE THAT PYMEM IS INSTALLED `pip install pymem`
 
 ## Auto Bypass
