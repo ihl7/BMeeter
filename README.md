@@ -1,4 +1,4 @@
-# Bypass-VoiceMeeter
+# BMeeter
 it's a tool to bypass VoiceMeeter DonationWare 
 by editing the memory and changing the time value to 0
 
